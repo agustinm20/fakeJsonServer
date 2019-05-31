@@ -7,9 +7,9 @@
     "services":"INTERNET 50MB - DIBOX FULL"    
   },
   "documentos": [
-    { "id": 1, "title": "Factura Mayo","period":"05/2019","billingDue":"15/05/2019","amount":199,5 },
-    { "id": 2, "title": "Factura Abril","period":"05/2019","billingDue":"15/04/2019","amount":199,5 },
-    { "id": 3, "title": "Factura Marzo","period":"05/2019","billingDue":"15/03/2019","amount":199,5 }
+    { "id": 1, "title": "Factura Mayo","period":"05/2019","billingDue":"15/05/2019","amount":"199,5" },
+    { "id": 2, "title": "Factura Abril","period":"05/2019","billingDue":"15/04/2019","amount":"199,5" },
+    { "id": 3, "title": "Factura Marzo","period":"05/2019","billingDue":"15/03/2019","amount":"199,5" }
   ]
  
 
